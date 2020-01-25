@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1B8BC074-62D7-44FD-808A-45BDCB5A2940}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="stringGamems/Program.cs">
+    <Files>
+      <File FileName="stringGamems/Program.cs" Line="13" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="stringGamemsSol" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.stringGamems PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

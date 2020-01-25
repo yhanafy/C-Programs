@@ -1,0 +1,5 @@
+/Users/yusufhanafy/Documents/Prog110/FirstProjectSol/FirstProject/bin/Debug/FirstProject.exe
+/Users/yusufhanafy/Documents/Prog110/FirstProjectSol/FirstProject/bin/Debug/FirstProject.pdb
+/Users/yusufhanafy/Documents/Prog110/FirstProjectSol/FirstProject/obj/Debug/FirstProject.csprojAssemblyReference.cache
+/Users/yusufhanafy/Documents/Prog110/FirstProjectSol/FirstProject/obj/Debug/FirstProject.exe
+/Users/yusufhanafy/Documents/Prog110/FirstProjectSol/FirstProject/obj/Debug/FirstProject.pdb

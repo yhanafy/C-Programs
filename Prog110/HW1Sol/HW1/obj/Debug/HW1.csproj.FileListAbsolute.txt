@@ -1,0 +1,5 @@
+/Users/yusufhanafy/Documents/Prog110/HW1Sol/HW1/bin/Debug/HW1.exe
+/Users/yusufhanafy/Documents/Prog110/HW1Sol/HW1/bin/Debug/HW1.pdb
+/Users/yusufhanafy/Documents/Prog110/HW1Sol/HW1/obj/Debug/HW1.csprojAssemblyReference.cache
+/Users/yusufhanafy/Documents/Prog110/HW1Sol/HW1/obj/Debug/HW1.exe
+/Users/yusufhanafy/Documents/Prog110/HW1Sol/HW1/obj/Debug/HW1.pdb

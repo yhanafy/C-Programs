@@ -1,0 +1,5 @@
+/Users/yusufhanafy/Documents/Prog110/stringGamemsSol/stringGamems/bin/Debug/stringGamems.exe
+/Users/yusufhanafy/Documents/Prog110/stringGamemsSol/stringGamems/bin/Debug/stringGamems.pdb
+/Users/yusufhanafy/Documents/Prog110/stringGamemsSol/stringGamems/obj/Debug/stringGamems.csprojAssemblyReference.cache
+/Users/yusufhanafy/Documents/Prog110/stringGamemsSol/stringGamems/obj/Debug/stringGamems.exe
+/Users/yusufhanafy/Documents/Prog110/stringGamemsSol/stringGamems/obj/Debug/stringGamems.pdb

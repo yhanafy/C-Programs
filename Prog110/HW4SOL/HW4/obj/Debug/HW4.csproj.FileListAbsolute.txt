@@ -1,0 +1,5 @@
+/Users/yusufhanafy/Projects/HW4SOL/HW4/bin/Debug/HW4.exe
+/Users/yusufhanafy/Projects/HW4SOL/HW4/bin/Debug/HW4.pdb
+/Users/yusufhanafy/Projects/HW4SOL/HW4/obj/Debug/HW4.csprojAssemblyReference.cache
+/Users/yusufhanafy/Projects/HW4SOL/HW4/obj/Debug/HW4.exe
+/Users/yusufhanafy/Projects/HW4SOL/HW4/obj/Debug/HW4.pdb

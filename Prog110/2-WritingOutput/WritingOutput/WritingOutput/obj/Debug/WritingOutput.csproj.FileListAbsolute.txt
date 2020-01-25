@@ -1,0 +1,21 @@
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe.config
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/bin/Debug/WritingOutput.pdb
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/obj/Debug/WritingOutput.csprojResolveAssemblyReference.cache
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/obj/Debug/WritingOutput.exe
+c:/users/kurt.friedrich/documents/visual studio 2015/Projects/WritingOutput/WritingOutput/obj/Debug/WritingOutput.pdb
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe.config
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.exe
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.pdb
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe.config
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.exe
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.pdb
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.pdb
+C:/Users/kurt.friedrich/Desktop/AAA-Winter2017/Prog-110-Winter2017/002-Section - TypesOfData/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.csprojResolveAssemblyReference.cache
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe.config
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.exe
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/bin/Debug/WritingOutput.pdb
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.csprojAssemblyReference.cache
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.exe
+/Users/yusufhanafy/Documents/Prog110/2-WritingOutput/WritingOutput/WritingOutput/obj/Debug/WritingOutput.pdb
