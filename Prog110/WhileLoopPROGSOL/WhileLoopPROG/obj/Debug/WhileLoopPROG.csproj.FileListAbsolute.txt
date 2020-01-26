@@ -1,0 +1,5 @@
+/Users/yusufhanafy/Documents/GitHub/C-Programs/Prog110/WhileLoopPROGSOL/WhileLoopPROG/bin/Debug/WhileLoopPROG.exe
+/Users/yusufhanafy/Documents/GitHub/C-Programs/Prog110/WhileLoopPROGSOL/WhileLoopPROG/bin/Debug/WhileLoopPROG.pdb
+/Users/yusufhanafy/Documents/GitHub/C-Programs/Prog110/WhileLoopPROGSOL/WhileLoopPROG/obj/Debug/WhileLoopPROG.csprojAssemblyReference.cache
+/Users/yusufhanafy/Documents/GitHub/C-Programs/Prog110/WhileLoopPROGSOL/WhileLoopPROG/obj/Debug/WhileLoopPROG.exe
+/Users/yusufhanafy/Documents/GitHub/C-Programs/Prog110/WhileLoopPROGSOL/WhileLoopPROG/obj/Debug/WhileLoopPROG.pdb
