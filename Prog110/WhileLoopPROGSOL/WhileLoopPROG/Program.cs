@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+/*This Program asks the user to enter a word over and over.
+ When the user is done, my program will write out the longest word of all the words they entered.
+ */
+
+
+using System;
 
 namespace WhileLoopPROG
 {
